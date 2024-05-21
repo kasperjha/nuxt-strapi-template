@@ -16,4 +16,4 @@ unset GIGET_REGISTRY
 
 - [@nuxtjs/tailwindcss](https://github.com/nuxt-modules/tailwindcss)
 - [@nuxtjs/strapi](https://github.com/nuxt-modules/strapi)
-
+- [@nuxt/eslint](https://github.com/nuxt/eslint)
