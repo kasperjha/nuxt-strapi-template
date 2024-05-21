@@ -1,13 +1,13 @@
 
-# Nuxt + Strapi Starter
+# Nuxt + Strapi Template
 
-A simple, preconfigured and opinionated Nuxt+Strapi starter that enables getting up and running quickly with strapi and nuxt 🚀
+A minimal, preconfigured and opinionated Nuxt+Strapi template that enables getting up and running quickly with strapi and nuxt 🚀
 
 ## Installation
 
 Run these commands and follow the instructions:
 ```bash
-export GIGET_REGISTRY=https://raw.githubusercontent.com/kakka0903/nuxt-strapi-starter/main
+export GIGET_REGISTRY=https://raw.githubusercontent.com/kakka0903/nuxt-strapi-template/main
 npx nuxi@latest init -t nuxt-strapi-starter
 unset GIGET_REGISTRY
 ```
