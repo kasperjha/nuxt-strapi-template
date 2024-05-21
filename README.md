@@ -12,4 +12,8 @@ npx nuxi@latest init -t nuxt-strapi-starter
 unset GIGET_REGISTRY
 ```
 
+## Modules
+
+- [@nuxtjs/tailwindcss](https://github.com/nuxt-modules/tailwindcss)
+- [@nuxtjs/strapi](https://github.com/nuxt-modules/strapi)
 
