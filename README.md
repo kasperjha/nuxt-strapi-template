@@ -17,3 +17,8 @@ unset GIGET_REGISTRY
 - [@nuxtjs/tailwindcss](https://github.com/nuxt-modules/tailwindcss)
 - [@nuxtjs/strapi](https://github.com/nuxt-modules/strapi)
 - [@nuxt/eslint](https://github.com/nuxt/eslint)
+- [nuxt-strapi-zone-utils](https://github.com/kasperjha/nuxt-strapi-zone-utils)
+
+## Features
+
+- Automatically render dynamic content from Strapi using the `DynamicZone` utility component. See [the nszu documentation](https://github.com/kasperjha/nuxt-strapi-zone-utils) for usage.
