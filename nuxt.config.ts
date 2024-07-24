@@ -2,6 +2,10 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
 
+  future: {
+    compatibilityVersion: 4,
+  },
+
   modules: [
     '@nuxtjs/strapi',
     '@nuxtjs/tailwindcss',
