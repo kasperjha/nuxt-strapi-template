@@ -5,6 +5,7 @@ A minimal, preconfigured and opinionated Nuxt+Strapi template that enables getti
 ## Installation
 
 Run these commands and follow the instructions:
+
 ```bash
 export GIGET_REGISTRY=https://raw.githubusercontent.com/kakka0903/nuxt-strapi-template/main
 npx nuxi@latest init -t nuxt-strapi-starter
