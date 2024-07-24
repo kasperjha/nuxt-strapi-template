@@ -1,4 +1,3 @@
-
 # Nuxt + Strapi Template
 
 A minimal, preconfigured and opinionated Nuxt+Strapi template that enables getting up and running quickly with strapi and nuxt 🚀
@@ -17,6 +16,7 @@ unset GIGET_REGISTRY
 - [@nuxtjs/tailwindcss](https://github.com/nuxt-modules/tailwindcss)
 - [@nuxtjs/strapi](https://github.com/nuxt-modules/strapi)
 - [@nuxt/eslint](https://github.com/nuxt/eslint)
+- [@antfu/eslint-config](https://github.com/antfu/eslint-config)
 - [nuxt-strapi-zone-utils](https://github.com/kasperjha/nuxt-strapi-zone-utils)
 
 ## Features
